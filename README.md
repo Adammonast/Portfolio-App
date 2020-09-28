@@ -5,9 +5,11 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
-One to two paragraph statement about your product and what it does.
+My porfolio app is being built using React and vanilla CSS. As of this moment (9/28/2020), this is project is a work in progress. The code as-is will provide you with information about me, my projects, and an imcomplete contact form. All of the buttons, links, and functionality work so feel free to fork/clone the repository for any viewing purposes!
 
-<img align="center" src=https://user-images.githubusercontent.com/57102880/94494945-739cc500-01be-11eb-8507-eb1548958177.png width="600" height="350">
+Future plans for this project include: implementing a Certificate page which will contain my Lambda School endorsement badge and various other online course certificate of completions I have recieved. Thank you for viewing this project and all feedback is appreciated!
+
+<img align="center" src=https://user-images.githubusercontent.com/57102880/94494945-739cc500-01be-11eb-8507-eb1548958177.png width="850" height="400">
 
 ## Installation
 
@@ -25,7 +27,7 @@ npm install
 
 ## Development setup
 
-After you fork/clone the repository to our local machine and use the installation command: run one of the following start commands to open the project on your localhost
+After you fork/clone the repository to your local machine and use the installation command: run one of the following start commands to open the project on your localhost
 
 OS X:
 
