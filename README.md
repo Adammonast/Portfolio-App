@@ -9,7 +9,7 @@ My porfolio app is being built using React and vanilla CSS. As of this moment (9
 
 Future plans for this project include: implementing a Certificate page which will contain my Lambda School endorsement badge and various other online course certificate of completions I have recieved. Thank you for viewing this project and all feedback is appreciated!
 
-<img align="center" src=https://user-images.githubusercontent.com/57102880/94494945-739cc500-01be-11eb-8507-eb1548958177.png width="850" height="400">
+<img align="center" src=https://user-images.githubusercontent.com/57102880/94494945-739cc500-01be-11eb-8507-eb1548958177.png width="600" height="350">
 
 ## Installation
 
