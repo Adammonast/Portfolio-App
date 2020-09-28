@@ -5,7 +5,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
-My porfolio app is being built using React and vanilla CSS. As of this moment (9/28/2020), this is project is a work in progress. The code as-is will provide you with information about me, my projects, and an imcomplete contact form. All of the buttons, links, and functionality work so feel free to fork/clone the repository for any viewing purposes!
+My porfolio app is being built using React.js and vanilla CSS. As of this moment (9/28/2020), this is project is a work in progress. The code as-is will provide you with information about me, my projects, and an imcomplete contact form. All of the buttons, links, and functionality work so feel free to fork/clone the repository for any viewing purposes!
 
 Future plans for this project include: implementing a Certificate page which will contain my Lambda School endorsement badge and various other online course certificate of completions I have recieved. Thank you for viewing this project and all feedback is appreciated!
 
