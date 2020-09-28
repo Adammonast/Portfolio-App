@@ -9,7 +9,7 @@ import Box from "@material-ui/core/Box";
 import AboutMe from "./AboutMe";
 import Contact from "./Contact";
 import MyProjects from "./MyProjects";
-import "./App.css";
+import "../css/App.css";
 
 function TabPanel(props) {
   const { children, value, index, ...other } = props;

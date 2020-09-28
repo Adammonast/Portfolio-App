@@ -1,8 +1,8 @@
 import React from "react";
-import WeightDash from "./images/WeightDash.png";
-import VacationDash from "./images/VacationDash.png";
-import PlantsDash from "./images/PlantsDash.png";
-import "./MyProjects.css";
+import WeightDash from "../images/WeightDash.png";
+import VacationDash from "../images/VacationDash.png";
+import PlantsDash from "../images/PlantsDash.png";
+import "../css/MyProjects.css";
 
 function MyProjects() {
   return (

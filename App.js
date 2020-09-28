@@ -1,8 +1,6 @@
 import React from "react";
-import "./App.css";
-import NavTabs from "./Nav";
-// import Grey from "./images/grey.JPG";
-// import Banner from "./images/Banner.JPG";
+import "./css/App.css";
+import NavTabs from "./components/Nav";
 import Banner2 from "./images/Banner2.JPG";
 
 function App() {
