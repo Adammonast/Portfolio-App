@@ -13,6 +13,8 @@ Future plans for this project include: implementing a Certificate page which wil
 
 ## Installation
 
+Once the repository has been forked/cloned, cd into the root directory and run the following commands based on your operating system
+
 OS X:
 
 ```sh
