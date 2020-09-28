@@ -1,0 +1,14 @@
+/* Contact Page */
+
+.form-container {
+  max-width: 65%;
+  margin: 0 auto;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 300;
+  line-height: 1.65;
+  font-size: medium;
+}
+
+.form-container h1 {
+  margin-bottom: 2%;
+}

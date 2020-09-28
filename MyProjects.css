@@ -1,0 +1,53 @@
+.myproject-card-container {
+  margin: 0 auto;
+}
+
+.myproject-card-container img {
+  max-width: 30%;
+  margin: 2%;
+  /* border-right: 4px solid #8b4411; */
+  border-right: 4px solid #2b6e3b;
+}
+
+.myproject-cards {
+  display: flex;
+  border-radius: 1%;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+  /* background: #dddddd; */
+  /* background: #fadcc2; */
+  background: #fad4b4;
+  border-radius: 5px;
+  margin: 2% 0 2% 10%;
+  max-width: 80%;
+}
+
+.myproject-card-body {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 300;
+  line-height: 1.65;
+  font-size: medium;
+  margin: 2%;
+}
+
+.myproject-card-content {
+  display: flex;
+}
+
+.myproject-card-body h2 {
+  font-weight: bold;
+}
+
+.myproject-card-body p {
+  max-width: 95%;
+}
+
+.myproject-card-content .fa-github {
+  font-size: 30px;
+  color: black;
+  background: none;
+  margin: 0 0 0 4%;
+  height: 15%;
+}
