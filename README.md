@@ -1,4 +1,4 @@
-# Product Name
+# Portfolio App
 
 > This repository contains my portfolio app. Within this app, expect to find information about me, my projects, and how to contact me.
 
