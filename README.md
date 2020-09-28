@@ -7,7 +7,7 @@
 
 One to two paragraph statement about your product and what it does.
 
-<img align="center" src=https://user-images.githubusercontent.com/57102880/94494945-739cc500-01be-11eb-8507-eb1548958177.png width="850" height="400">
+<img align="center" src=https://user-images.githubusercontent.com/57102880/94494945-739cc500-01be-11eb-8507-eb1548958177.png width="600" height="350">
 
 ## Installation
 
